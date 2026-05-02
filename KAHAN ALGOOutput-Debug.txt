@@ -1,0 +1,19 @@
+﻿'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Users\DELL\source\repos\Topological-Sorting-Kahn\x64\Debug\Topological-Sorting-Kahn.exe'. Symbols loaded.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 21260 has exited with code 0 (0x0).
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbol loading disabled by Include/Exclude setting.
+'Topological-Sorting-Kahn.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 18540 has exited with code 0 (0x0).
+The thread 17160 has exited with code 0 (0x0).
+The program '[18128] Topological-Sorting-Kahn.exe' has exited with code 0 (0x0).
